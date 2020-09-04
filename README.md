@@ -12,6 +12,3 @@ Some of the examples rely on a connection to a third party site, such as Open We
 The examples in the book are labeled with the structure "Example [Chapter]-[Example Number]."  An example labeled "Example 2-5" means that it is example number 5 in chapter 2.  So, to find the corresponding example in this repository, you would need to look in the Chapter02 directory and find the file labeled "Example05."
 
 Some examples in the book build upon one another to form a complete example.  In this repository, these examples have been combined into a single file.  
-
-
-
